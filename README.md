@@ -9,8 +9,10 @@
 
       -/Feature_Maps/Rainy_Images: Rainy images are located under this path;
 
-      -/Feature_Maps/TR_FM: Task-relevant feature maps are located under this path;
+      -/Feature_Maps/ENT_FM: Feature maps after entanglement are located under this path;
 
-      -/Feature_Maps/TIR_FM: Task-irrelevant feature maps are located under this path;
+      -/Feature_Maps/MAIN_FM: Feature maps from the main encoder branch are located under this path;
+      
+      -/Feature_Maps/RES_FM: Feature maps from the residual encoder branch are located under this path;
 
 5. All feature maps, and de-raining results of images from different datasets, and all codes will be released in this repository after paper acceptance.
